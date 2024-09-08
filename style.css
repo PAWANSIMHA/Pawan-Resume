@@ -7,7 +7,7 @@ h2{
    font: size 30px;
 }
 hr{
-    color:rgb(115, 187, 163);
+    border: 2px solid black;;
 }
 
 p{
