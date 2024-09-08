@@ -7,6 +7,11 @@ h2{
    font: size 30px;
 }
 
+hr{
+    border= 1px black;
+}
+
 p{
     color:rgb(0,0,0);
 }
+
