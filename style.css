@@ -1,8 +1,15 @@
 h2{
-    color:rgb(255, 55, 5);
+    color:rgb(136, 214, 108);
    
 }
 *{
-   background-color:rgb(156, 202, 209);  
+   background-color:rgb(180, 227, 128);  
    font: size 30px;
+}
+hr{
+    color:rgb(115, 187, 163);
+}
+
+p{
+    color:rgb(246, 251, 122);
 }
