@@ -1,17 +1,23 @@
 h2{
-    color:rgb(254,0,0);
+    color:rgb(0, 0, 0);
    
 }
 *{
-   background-color:rgb(234, 75, 75);
+   background-color:cornsilk;  
    font: size 30px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 hr {
-  border: 1px solid black; 
-}
+  border:  1px solid black;
+
+} 
 
 p{
-    color:rgb(0,0,0);
+    color:darkgreen;
+    font-size: 20px;
 }
 
+a{
+  font-size:20px;;
+}
