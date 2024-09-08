@@ -1,9 +1,9 @@
 h2{
-    color:rgb(255, 145, 0);
+    color:rgb(254,0,0);
    
 }
 *{
-   background-color:rgb(180, 227, 128);  
+   background-color:rgb(215,240,74);  
    font: size 30px;
 }
 hr{
@@ -11,5 +11,5 @@ hr{
 }
 
 p{
-    color:rgb(0, 113, 45);
+    color:rgb(0,0,0);
 }
