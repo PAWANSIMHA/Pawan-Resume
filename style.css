@@ -1,7 +1,12 @@
+H1{
+    color:RGB(0, 51, 102);
+}
+
 h2{
     color:RGB(0, 85, 170);
    
 }
+
 *{
    background-color:RGB(245, 245, 245);  
    font: size 30px;
