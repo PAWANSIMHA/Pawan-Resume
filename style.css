@@ -1,14 +1,14 @@
 H1{
-    color:RGB(0, 51, 102);
+    color:RGB(0, 100, 0);
 }
 
 h2{
-    color:RGB(0, 85, 170);
+    color:RGB(85, 107, 47);
    
 }
 
 *{
-   background-color:RGB(245, 245, 245);  
+   background-color:RGB(240, 248, 255);  
    font: size 30px;
    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
